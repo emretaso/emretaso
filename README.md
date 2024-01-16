@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Emre
-- 👀 I’m interested in Data Science/Analysis.
-- 🌱 I’m currently learning Python, SQL, Power BI and ML Algorithms.
+- 👋 Hi, I’m Zekeriya Emre.
+- 👀 I’m interested in Data Science and Business Analysis.
+- 🌱 I’m currently learning  Project Management Methods, Python, SQL, Power BI and ML Algorithms.
 
 
 <!---
